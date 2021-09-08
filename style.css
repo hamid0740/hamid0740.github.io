@@ -2,7 +2,8 @@
 
 /*
    LinkForest template
-   Version: 3.1.0
+   Version: 3.1.1
+   Language: Persian
    Developer: hamid0740
    GitHub: https://github.com/hamid0740/LinkForest
 */
@@ -447,9 +448,9 @@ body.dark .link:hover{
 
 .link-icon-image-l{
   display: flex !important;
-  height: 1.7rem;
-  width: 1.7rem;
-  margin: 0.8rem;
+  height: 1.9rem;
+  width: 1.9rem;
+  margin: 0.7rem;
   float: left;
   align-items: center;
   justify-content: center;
@@ -459,9 +460,9 @@ body.dark .link:hover{
 }
 .link-icon-image-r{
   display: flex !important;
-  height: 1.7rem;
-  width: 1.7rem;
-  margin: 0.8rem;
+  height: 1.9rem;
+  width: 1.9rem;
+  margin: 0.7rem;
   float: right;
   align-items: center;
   justify-content: center;
