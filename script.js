@@ -1,5 +1,6 @@
 // LinkForest template
-// Version: 3.1.0
+// Version: latest
+// Language: English
 // Developer: hamid0740
 // GitHub: https://github.com/hamid0740/LinkForest
 
