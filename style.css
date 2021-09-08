@@ -525,7 +525,6 @@ body.dark .link:hover{
   font-size: 35px;
   font-family: var(--font);
   color: var(--h1-color);
-  direction: rtl;
 }
 
 .swal-text{
@@ -533,8 +532,6 @@ body.dark .link:hover{
   font-size: 18px;
   font-family: var(--font);
   color: var(--h1-color);
-  direction: rtl;
-  text-align: right;
 }
 
 .swal-button{
