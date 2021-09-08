@@ -2,7 +2,7 @@
 
 /*
    LinkForest template
-   Version: 3.1.1
+   Version: latest
    Language: Persian
    Developer: hamid0740
    GitHub: https://github.com/hamid0740/LinkForest
@@ -101,7 +101,7 @@ body.dark img{
   width: 2rem;
   height: 2rem;
   vertical-align: middle;
-  background-image: url("https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.png");
+  background-image: url("https://cdn.jsdelivr.net/gh/hamid0740/LinkForest@main/logo.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
